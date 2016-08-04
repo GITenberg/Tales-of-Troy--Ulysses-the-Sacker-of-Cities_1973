@@ -1,0 +1,35 @@
+_repo: Tales-of-Troy--Ulysses-the-Sacker-of-Cities_1973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trojan War -- Juvenile literature'
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The boyhood and parents of Ulysses -- How people lived in the time
+  of Ulysses -- The wooing of Helen of the fair hands -- The stealing of Helen --
+  Trojan victories -- Battle at the ships -- The slaying and avenging of Patroclus
+  -- The cruelty of Achilles, and the ransoming of Hector -- How Ulysses stole the
+  luck of Troy -- The battles with the Amazons and Memnon; the death of Achilles --
+  Ulysses sails to seek the son of Achilles; the valour of Eurypylus -- The slaying
+  of Paris -- How Ulysses invented the device of the horse of tree -- The end of Troy
+  and the saving of Helen.
+title: 'Tales of Troy: Ulysses, the Sacker of Cities'
+url: http://www.gutenberg.org/ebooks/1973
